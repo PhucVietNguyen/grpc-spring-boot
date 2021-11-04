@@ -1,0 +1,7 @@
+/home/datpt/grpc-springboot-microservice/client/src/main/java/home/MainAppClient.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/java/com/grpc/server/TestRequestOrBuilder.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/java/com/grpc/server/TestResponse.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/java/com/grpc/server/TestResponseOrBuilder.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/grpc-java/com/grpc/server/TestServiceGrpc.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/java/com/grpc/server/TestServiceOuterClass.java
+/home/datpt/grpc-springboot-microservice/client/target/generated-sources/protobuf/java/com/grpc/server/TestRequest.java
